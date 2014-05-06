@@ -1,3 +1,8 @@
+This is a fork of stomita/heroku-buildpack-phantomjs, which points to a different file location for the Phantom JS binaries, as the original location is currently not accessible. This fork will be discontinued, when the original binaries are accessible again!
+
+Below see original readme: 
+
+
 Heroku buildpack: PhantomJS
 =======================
 
